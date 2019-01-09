@@ -33,3 +33,9 @@ p {
   font-style: italic;
   color: #ccbe9f;
 }
+
+body {
+  background-image: url("../img/island2-randee.jpeg");
+  background-size: cover;
+}
+
